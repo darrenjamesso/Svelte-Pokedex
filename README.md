@@ -5,7 +5,6 @@
 ### The Pokédex will only be featuring the 151 Pokémon of the Kanto Region
 
 
-
 ------
 
 ## To create a new project in the current directory
