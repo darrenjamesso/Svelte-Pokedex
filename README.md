@@ -6,7 +6,7 @@ This web application was built using [Svelte](https://svelte.dev/), [TailwindCSS
 The Pokédex will only be featuring the 151 Pokémon of the Kanto Region
 
 
-## To create a new project in the current directory
+### To create a new project in the current directory
 ```bash
 npm init svelte@next my-app
 cd my-app
@@ -15,7 +15,7 @@ npm run dev -- --open
 ```
 
 
-## To Clone and run locally from
+### To Clone and run locally from
 ```bash
 git clone https://github.com/darrenjamesso/Svelte-Pokedex.git
 cd Svelte-Pokedex
@@ -23,30 +23,30 @@ npm install
 ```
 
 
-## To run locally 
+### To run locally 
 ```bash
 npm run start 
 ```
 
 
-## To build the compiler and all the other modules included in the package:
+### To build the compiler and all the other modules included in the package:
 ```bash
 npm run build 
 ```
 
 
-## To preview the production build locally (after npm run build)
+### To preview the production build locally (after npm run build)
 ```bash
 npm run preview
 ```
 
 
-## To watch for changes and continually rebuild the package
+### To watch for changes and continually rebuild the package
 ```bash
 npm run dev 
 ```
 
 
 
-# Have fun with your Kanto Pokédex!
+## Have fun with your Kanto Pokédex!
 
