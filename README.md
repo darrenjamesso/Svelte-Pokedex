@@ -1,11 +1,10 @@
 # Sveltekit Pokédex
-
-### This web application was built using [Svelte](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com/docs), and the [PokeAPI](https://pokeapi.co/)
-
-### The Pokédex will only be featuring the 151 Pokémon of the Kanto Region
-
-
 ------
+
+This web application was built using [Svelte](https://svelte.dev/), [TailwindCSS](https://tailwindcss.com/docs), and the [PokeAPI](https://pokeapi.co/)
+
+The Pokédex will only be featuring the 151 Pokémon of the Kanto Region
+
 
 ## To create a new project in the current directory
 ```bash
