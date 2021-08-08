@@ -15,17 +15,11 @@ npm run dev -- --open
 ```
 
 
-### To Clone and run locally from
+### To Clone and run locally 
 ```bash
 git clone https://github.com/darrenjamesso/Svelte-Pokedex.git
 cd Svelte-Pokedex
 npm install
-```
-
-
-### To run locally 
-```bash
-npm run start 
 ```
 
 
